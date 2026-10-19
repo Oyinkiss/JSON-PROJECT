@@ -1,0 +1,12 @@
+{
+    "name": "Oyinkansola",
+    "age": 25,
+    "job": "Data Analyst",
+    "is_a_student_json": true,
+    "salary": [
+        310,
+        410,
+        510
+    ],
+    "email": "ooyin@gmail.com"
+}

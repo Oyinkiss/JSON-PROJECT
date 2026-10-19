@@ -1,0 +1,12 @@
+{
+   "name": "Oyinkansola",
+   "age": 25,
+   "department": "chemical engineering",
+   "level": "400 level",
+   "is_a_student": true,
+   "skills": [
+      "python",
+      "ML/AL",
+      "Data Science"
+   ]
+}
